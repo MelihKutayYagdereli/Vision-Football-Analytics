@@ -79,8 +79,9 @@ Run Pipeline:
 Bash
 ```
 python main.py
-The system will generate:
 ```
+The system will generate:
+
 Processed Video: Located in output_videos/, containing visual annotations for tracking, team logic, and possession.
 
 Analysis Report: A text file summarizing possession percentages, pass counts, and physical metrics.
